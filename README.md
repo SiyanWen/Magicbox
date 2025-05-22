@@ -6,7 +6,7 @@
 
 - If you select code, we will render the syntax highlight with Highlight.js.
 
-- If you select plain text, we will just display the raw input. With [Mathjax](https://www.mathjax.org/#gettingstarted), you can write math equations in your posts.
+- If you select plain text, we will just display the raw input. With [Mathjax](https://www.mathjax.org/#gettingstarted), you can write math equations in your posts. You can even inject html tags like table, then it will render it as table inside table.
 
 - Enjoy!
 
